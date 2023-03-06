@@ -1,0 +1,11 @@
+[
+  {
+    "id":1, "nome":"Zeus", "poderes":["raio","trovão"], "mitologia":"grega"
+  },
+  {
+    "id":2, "nome":"Odin", "poderes":["sabedoria","magia"], "mitologia":"nórdica"
+  },
+  {
+    "id":3, "nome":"Vishnu", "poderes":["proteção","preservação"], "mitologia":"hindu"
+  }
+]
